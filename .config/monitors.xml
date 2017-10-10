@@ -1,0 +1,131 @@
+<monitors version="1">
+  <configuration>
+      <clone>yes</clone>
+      <output name="LVDS-1">
+          <vendor>LGD</vendor>
+          <product>0x036c</product>
+          <serial>0x00000000</serial>
+          <width>1366</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="VGA-1">
+      </output>
+      <output name="HDMI-1">
+          <vendor>@@@</vendor>
+          <product>0x5655</product>
+          <serial>0x00011011</serial>
+          <width>1366</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>1366</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DP-1">
+      </output>
+      <output name="HDMI-2">
+      </output>
+      <output name="HDMI-3">
+      </output>
+      <output name="DP-2">
+      </output>
+      <output name="DP-3">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>yes</clone>
+      <output name="LVDS-1">
+          <vendor>LGD</vendor>
+          <product>0x036c</product>
+          <serial>0x00000000</serial>
+          <width>1024</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="VGA-1">
+          <vendor>VSC</vendor>
+          <product>0x1530</product>
+          <serial>0x01010101</serial>
+          <width>1024</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>1366</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="HDMI-1">
+      </output>
+      <output name="DP-1">
+      </output>
+      <output name="HDMI-2">
+      </output>
+      <output name="HDMI-3">
+      </output>
+      <output name="DP-2">
+      </output>
+      <output name="DP-3">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>yes</clone>
+      <output name="LVDS-1">
+          <vendor>LGD</vendor>
+          <product>0x036c</product>
+          <serial>0x00000000</serial>
+          <width>1024</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="VGA-1">
+      </output>
+      <output name="HDMI-1">
+          <vendor>VSC</vendor>
+          <product>0x1530</product>
+          <serial>0x01010101</serial>
+          <width>1024</width>
+          <height>768</height>
+          <rate>60</rate>
+          <x>1366</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DP-1">
+      </output>
+      <output name="HDMI-2">
+      </output>
+      <output name="HDMI-3">
+      </output>
+      <output name="DP-2">
+      </output>
+      <output name="DP-3">
+      </output>
+  </configuration>
+</monitors>

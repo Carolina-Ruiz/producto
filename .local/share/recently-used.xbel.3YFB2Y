@@ -1,0 +1,2705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/laboratoria/Desktop/proyecto-sprint-1/index.html" added="2017-03-30T12:21:27Z" modified="2017-05-24T05:37:07Z" visited="2017-03-30T12:21:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:37:07Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lista-frutas/index.html" added="2017-04-24T13:47:09Z" modified="2017-05-24T05:24:15Z" visited="2017-04-24T13:47:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:24:15Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/%20traduccion-formulario%20/index.html" added="2017-04-25T14:31:28Z" modified="2017-05-24T05:37:25Z" visited="2017-04-25T14:31:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:37:25Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/traduccion/index.html" added="2017-04-25T16:05:36Z" modified="2017-05-24T05:22:54Z" visited="2017-04-25T16:05:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:22:54Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/enlaces/index.html" added="2017-04-26T19:00:17Z" modified="2017-05-24T05:19:03Z" visited="2017-04-26T19:00:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:19:03Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/enlaces/assets/js/script.js" added="2017-04-26T19:01:05Z" modified="2017-05-24T05:19:16Z" visited="2017-04-26T19:01:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:19:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/form/index.html" added="2017-04-26T20:21:23Z" modified="2017-05-24T05:19:34Z" visited="2017-04-26T20:21:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:19:34Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/pesos-planetas/index.html" added="2017-05-09T16:44:39Z" modified="2017-05-22T16:12:00Z" visited="2017-05-09T16:44:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T16:12:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/hugeinc-guiado/index.html" added="2017-05-11T14:01:39Z" modified="2017-05-24T05:20:39Z" visited="2017-05-11T14:01:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:20:39Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/tea-lady" added="2017-05-12T12:55:42Z" modified="2017-05-31T01:31:10Z" visited="2017-05-12T12:55:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-31T01:31:10Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/fotolog/index.html" added="2017-05-15T14:09:11Z" modified="2017-05-24T05:20:01Z" visited="2017-05-15T14:09:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:20:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bicis-locas-master" added="2017-05-15T17:04:45Z" modified="2017-05-24T05:42:53Z" visited="2017-05-15T17:04:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-24T05:42:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bicis-locas-master/index.html" added="2017-05-15T17:05:01Z" modified="2017-05-24T05:55:22Z" visited="2017-05-15T17:05:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:55:22Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/claseseventos/index.html" added="2017-05-16T14:25:25Z" modified="2017-05-24T05:40:42Z" visited="2017-05-16T14:25:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-16T14:25:25Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:40:42Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/twitter/index.html" added="2017-05-16T16:12:53Z" modified="2017-05-24T05:40:22Z" visited="2017-05-16T16:12:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:40:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicios-eventos/index.html" added="2017-05-16T17:36:44Z" modified="2017-05-24T05:40:10Z" visited="2017-05-16T17:36:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-16T17:36:44Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:40:10Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/hola-mundo-master/index.html" added="2017-05-16T19:14:11Z" modified="2017-05-24T05:35:20Z" visited="2017-05-16T19:14:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:35:20Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/hola-mundo-master/main.css" added="2017-05-16T19:14:23Z" modified="2017-05-24T05:31:42Z" visited="2017-05-16T19:14:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:31:42Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/hola-mundo-master/main.js" added="2017-05-16T19:14:29Z" modified="2017-05-24T05:31:18Z" visited="2017-05-16T19:14:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:31:18Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/trello-laboratoria/index.html" added="2017-05-17T16:17:00Z" modified="2017-05-24T05:40:02Z" visited="2017-05-17T16:17:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-17T16:17:00Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:40:02Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/modelo-caja/index.html" added="2017-05-18T14:37:48Z" modified="2017-05-24T05:39:54Z" visited="2017-05-18T14:37:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-18T14:37:48Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:39:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/tea-lovers/index.html" added="2017-05-18T16:33:36Z" modified="2017-06-07T00:35:14Z" visited="2017-05-18T16:33:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-07T00:35:14Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/tea-lovers" added="2017-05-18T16:38:54Z" modified="2017-05-31T01:35:13Z" visited="2017-05-18T16:38:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-31T01:35:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/tea-lovers/assets/img/disfruta.jpg" added="2017-05-19T01:34:30Z" modified="2017-05-31T01:45:41Z" visited="2017-05-19T01:34:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-31T01:45:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/tea-lovers/assets/img/fondo-bienvenida.jpg" added="2017-05-19T01:34:39Z" modified="2017-05-31T01:45:38Z" visited="2017-05-19T01:34:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-31T01:45:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/love-love-panda-desu/index.html" added="2017-05-19T02:44:47Z" modified="2017-06-07T00:35:07Z" visited="2017-05-19T02:44:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-07T00:35:07Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/mi-navbar/index.html" added="2017-05-20T11:12:15Z" modified="2017-06-07T00:34:52Z" visited="2017-05-20T11:12:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-07T00:34:52Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/mi-navbar" added="2017-05-20T11:12:53Z" modified="2017-05-23T13:52:43Z" visited="2017-05-20T11:12:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-23T13:52:43Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/floating/index.html" added="2017-05-21T16:22:08Z" modified="2017-06-07T00:35:23Z" visited="2017-05-21T16:22:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-07T00:35:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises/index1.html" added="2017-05-21T17:53:07Z" modified="2017-05-22T15:41:10Z" visited="2017-05-21T17:53:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T15:41:10Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises/index2.html" added="2017-05-21T17:53:11Z" modified="2017-05-22T15:26:28Z" visited="2017-05-21T17:53:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T15:26:28Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises/index3.html" added="2017-05-21T17:53:15Z" modified="2017-05-22T15:26:32Z" visited="2017-05-21T17:53:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T15:26:32Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises/index4.html" added="2017-05-21T17:53:18Z" modified="2017-05-22T15:26:36Z" visited="2017-05-21T17:53:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T15:26:36Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises/index5.html" added="2017-05-21T17:53:21Z" modified="2017-05-22T15:26:40Z" visited="2017-05-21T17:53:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T15:26:40Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/display-exercises" added="2017-05-21T19:49:29Z" modified="2017-05-22T15:16:38Z" visited="2017-05-21T19:49:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T15:16:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/position" added="2017-05-22T13:48:40Z" modified="2017-05-22T13:48:40Z" visited="2017-05-22T13:48:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T13:48:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/position/index.html" added="2017-05-22T13:49:45Z" modified="2017-05-24T05:38:53Z" visited="2017-05-22T13:49:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T13:49:45Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:38:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/position/assets/css/style.css" added="2017-05-22T13:50:10Z" modified="2017-05-22T13:50:10Z" visited="2017-05-22T13:50:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T13:50:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/position/assets/js/main.js" added="2017-05-22T13:51:03Z" modified="2017-05-22T13:51:03Z" visited="2017-05-22T13:51:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T13:51:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/positioning-guiado/index.html" added="2017-05-22T15:43:22Z" modified="2017-06-07T00:34:38Z" visited="2017-05-22T15:43:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-07T00:34:38Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/positioning-guiado" added="2017-05-22T15:43:36Z" modified="2017-05-22T15:43:36Z" visited="2017-05-22T15:43:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-22T15:43:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/pesos-planetas/assets/js/main.js" added="2017-05-22T16:11:44Z" modified="2017-05-22T16:11:44Z" visited="2017-05-22T16:11:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-22T16:11:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/la-casita/casita.png" added="2017-05-22T17:19:22Z" modified="2017-05-22T18:01:08Z" visited="2017-05-22T17:19:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-22T18:01:08Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/la-casita" added="2017-05-22T17:20:20Z" modified="2017-05-23T15:45:54Z" visited="2017-05-22T17:20:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-23T15:45:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/la-casita/index.html" added="2017-05-22T17:32:14Z" modified="2017-05-22T19:28:52Z" visited="2017-05-22T17:32:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-22T19:28:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/Google%20Traductor.html" added="2017-05-22T19:16:22Z" modified="2017-05-22T19:16:22Z" visited="2017-05-22T19:16:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-05-22T19:16:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/trollo.zip" added="2017-05-23T02:23:28Z" modified="2017-05-23T02:23:28Z" visited="2017-05-23T02:23:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-23T02:23:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/trollo/trollo/index.html" added="2017-05-23T02:23:40Z" modified="2017-05-23T02:33:28Z" visited="2017-05-23T02:23:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-23T02:33:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/trollo" added="2017-05-23T02:32:14Z" modified="2017-05-23T02:32:14Z" visited="2017-05-23T02:32:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-23T02:32:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3" added="2017-05-23T13:21:57Z" modified="2017-06-13T01:41:04Z" visited="2017-05-23T13:21:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T01:41:04Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3/index.html" added="2017-05-23T13:24:15Z" modified="2017-06-13T01:47:21Z" visited="2017-05-23T13:24:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-13T01:47:21Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3/docs/screenshot.png" added="2017-05-23T13:24:43Z" modified="2017-05-24T01:34:23Z" visited="2017-05-23T13:24:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-24T01:34:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3/assets/img/logo-white.png" added="2017-05-23T13:57:25Z" modified="2017-05-23T14:31:00Z" visited="2017-05-23T13:57:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-23T14:31:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3/assets/img/corazon.png" added="2017-05-23T17:57:26Z" modified="2017-05-23T17:57:26Z" visited="2017-05-23T17:57:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-05-23T17:57:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lyft-sprint-3/assets/img/auto.png" added="2017-05-23T17:58:51Z" modified="2017-05-23T17:58:51Z" visited="2017-05-23T17:58:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-05-23T17:58:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/iconos.zip" added="2017-05-24T00:12:12Z" modified="2017-05-24T00:12:21Z" visited="2017-05-24T00:12:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T00:12:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/hugeinc-guiado/assets/javascript/main.js" added="2017-05-24T05:20:51Z" modified="2017-05-24T05:20:51Z" visited="2017-05-24T05:20:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:20:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/hugeinc-guiado/assets/css/style.css" added="2017-05-24T05:22:16Z" modified="2017-05-24T05:22:16Z" visited="2017-05-24T05:22:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:22:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/proyecto-sprint-1%20(1).zip" added="2017-05-24T05:30:17Z" modified="2017-05-24T05:30:17Z" visited="2017-05-24T05:30:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T05:30:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/traduccion-master.zip" added="2017-05-24T05:30:34Z" modified="2017-05-24T05:30:34Z" visited="2017-05-24T05:30:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T05:30:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/traduccion-master/index.html" added="2017-05-24T05:30:40Z" modified="2017-05-24T05:30:40Z" visited="2017-05-24T05:30:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T05:30:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/hola-mundo-master/download.jpg" added="2017-05-24T05:31:14Z" modified="2017-05-24T05:31:14Z" visited="2017-05-24T05:31:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-24T05:31:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bicis-locas-master/js/main.js" added="2017-05-24T05:41:07Z" modified="2017-05-24T05:41:07Z" visited="2017-05-24T05:41:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-24T05:41:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/tarjeta-presentacion-master.zip" added="2017-05-24T06:01:11Z" modified="2017-05-24T06:01:11Z" visited="2017-05-24T06:01:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T06:01:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/lyft-sprint-3-master.zip" added="2017-05-24T06:01:34Z" modified="2017-05-24T14:27:58Z" visited="2017-05-24T06:01:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T14:27:58Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/lyft-sprint-3-master/index.html" added="2017-05-24T06:01:42Z" modified="2017-05-24T14:28:21Z" visited="2017-05-24T06:01:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-24T14:28:21Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/lyft-sprint-3-master" added="2017-05-24T06:03:16Z" modified="2017-05-24T06:03:16Z" visited="2017-05-24T06:03:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-24T06:03:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/lyft-sprint-3-master%20(1).zip" added="2017-05-24T06:09:35Z" modified="2017-05-24T06:09:46Z" visited="2017-05-24T06:09:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T06:09:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/bb.zip" added="2017-05-24T06:10:07Z" modified="2017-05-24T06:10:32Z" visited="2017-05-24T06:10:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-24T06:10:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system" added="2017-05-29T14:51:26Z" modified="2017-05-29T14:51:26Z" visited="2017-05-29T14:51:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T14:51:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/index.html" added="2017-05-29T14:52:40Z" modified="2017-05-29T16:52:03Z" visited="2017-05-29T14:52:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T14:52:40Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-29T16:52:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/assets/css/main.css" added="2017-05-29T14:52:57Z" modified="2017-05-29T14:52:57Z" visited="2017-05-29T14:52:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T14:52:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/assets/css/maingrid.css" added="2017-05-29T16:02:33Z" modified="2017-05-29T16:02:33Z" visited="2017-05-29T16:02:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T16:02:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/assets/img/im1.jpg" added="2017-05-29T16:10:56Z" modified="2017-05-29T16:10:56Z" visited="2017-05-29T16:10:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-05-29T16:10:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/ejemplo2.html" added="2017-05-29T16:28:39Z" modified="2017-05-29T16:56:59Z" visited="2017-05-29T16:28:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T16:28:39Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-29T16:56:59Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master.zip" added="2017-05-29T16:50:28Z" modified="2017-05-29T16:50:28Z" visited="2017-05-29T16:50:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-29T16:50:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master/index.html" added="2017-05-29T16:50:34Z" modified="2017-05-29T16:50:34Z" visited="2017-05-29T16:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-29T16:50:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master/assets/css/grid.css" added="2017-05-29T16:50:42Z" modified="2017-05-29T16:58:19Z" visited="2017-05-29T16:50:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-29T16:58:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master/assets/css/main.css" added="2017-05-29T16:51:12Z" modified="2017-05-29T16:58:57Z" visited="2017-05-29T16:51:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-29T16:58:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master%20(1).zip" added="2017-05-29T16:53:02Z" modified="2017-05-29T16:53:02Z" visited="2017-05-29T16:53:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-05-29T16:53:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/grid-system-master/ejemplo2.html" added="2017-05-29T16:53:09Z" modified="2017-05-29T16:53:28Z" visited="2017-05-29T16:53:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-29T16:53:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/grid-system/ejemplo3.html" added="2017-05-29T17:01:45Z" modified="2017-05-29T17:05:05Z" visited="2017-05-29T17:01:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-29T17:01:45Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-29T17:05:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/grid-system/index.html" added="2017-05-30T13:34:12Z" modified="2017-05-31T17:01:27Z" visited="2017-05-30T13:34:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-31T17:01:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/grid-system/ejemplo3.html" added="2017-05-30T13:34:22Z" modified="2017-05-31T17:01:37Z" visited="2017-05-30T13:34:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-31T17:01:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/grid-system/ejemplo2.html" added="2017-05-30T13:34:29Z" modified="2017-05-31T17:01:43Z" visited="2017-05-30T13:34:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-05-31T17:01:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/applove" added="2017-05-30T13:44:42Z" modified="2017-06-03T01:50:07Z" visited="2017-05-30T13:44:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-03T01:50:07Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/applove/index.html" added="2017-05-30T13:45:54Z" modified="2017-06-02T12:49:50Z" visited="2017-05-30T13:45:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-02T12:49:50Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/applove/css/main.css" added="2017-05-30T18:36:40Z" modified="2017-05-30T18:36:40Z" visited="2017-05-30T18:36:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-05-30T18:36:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria" added="2017-05-31T01:34:39Z" modified="2017-05-31T01:34:39Z" visited="2017-05-31T01:34:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-05-31T01:34:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/grid-system" added="2017-05-31T17:01:08Z" modified="2017-06-14T23:46:46Z" visited="2017-05-31T17:01:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-14T23:46:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/applove/assets/images/img-2.jpg" added="2017-05-31T17:39:07Z" modified="2017-05-31T17:39:07Z" visited="2017-05-31T17:39:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-05-31T17:39:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer/index.html" added="2017-06-01T13:36:37Z" modified="2017-06-02T00:35:10Z" visited="2017-06-01T13:36:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-02T00:35:10Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer" added="2017-06-01T13:37:45Z" modified="2017-06-01T19:32:22Z" visited="2017-06-01T13:37:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-01T19:32:22Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer/README.md" added="2017-06-01T13:47:21Z" modified="2017-06-01T13:47:21Z" visited="2017-06-01T13:47:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-06-01T13:47:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer/assets/docs/header.png" added="2017-06-01T13:47:40Z" modified="2017-06-01T13:47:40Z" visited="2017-06-01T13:47:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-01T13:47:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer/assets/docs/entirepage.png" added="2017-06-01T13:47:57Z" modified="2017-06-01T17:58:22Z" visited="2017-06-01T13:47:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-01T17:58:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/freelancer/assets/images/profile.png" added="2017-06-01T13:49:02Z" modified="2017-06-01T13:49:02Z" visited="2017-06-01T13:49:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-01T13:49:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/applove/js" added="2017-06-01T19:32:06Z" modified="2017-06-01T19:32:06Z" visited="2017-06-01T19:32:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-01T19:32:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/app-love-flex" added="2017-06-02T14:16:13Z" modified="2017-06-13T04:34:14Z" visited="2017-06-02T14:16:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T04:34:14Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/app-love-flex/index.html" added="2017-06-02T14:33:17Z" modified="2017-06-13T04:35:24Z" visited="2017-06-02T14:33:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-13T04:35:24Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/vtr%20banco.pdf" added="2017-06-02T17:38:00Z" modified="2017-06-02T17:38:00Z" visited="2017-06-02T17:38:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-02T17:38:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/app-love-flex/assets/docs/screen.png" added="2017-06-03T01:08:19Z" modified="2017-06-03T01:08:19Z" visited="2017-06-03T01:08:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-03T01:08:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/img-lyft-20170605T032822Z-001.zip" added="2017-06-05T03:29:08Z" modified="2017-06-05T03:30:57Z" visited="2017-06-05T03:29:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-05T03:30:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox" added="2017-06-05T03:32:34Z" modified="2017-06-13T01:38:49Z" visited="2017-06-05T03:32:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T01:38:49Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/index.html" added="2017-06-05T03:32:58Z" modified="2017-06-13T01:45:31Z" visited="2017-06-05T03:32:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-05T03:32:58Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-13T01:45:31Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/assets/css/stylecss" added="2017-06-05T03:33:59Z" modified="2017-06-05T03:33:59Z" visited="2017-06-05T03:33:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-05T03:33:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/assets/js/js.js" added="2017-06-05T03:34:53Z" modified="2017-06-05T03:34:53Z" visited="2017-06-05T03:34:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-05T03:34:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/assets/css/common.css" added="2017-06-05T03:36:15Z" modified="2017-06-05T03:36:15Z" visited="2017-06-05T03:36:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-05T03:36:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/assets/css/style.css" added="2017-06-05T03:37:22Z" modified="2017-06-05T03:37:22Z" visited="2017-06-05T03:37:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-05T03:37:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/doc/pantalla_mediana.png" added="2017-06-06T13:17:43Z" modified="2017-06-06T13:17:43Z" visited="2017-06-06T13:17:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-06T13:17:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/doc/pantalla_grande.png" added="2017-06-06T13:17:47Z" modified="2017-06-06T13:17:47Z" visited="2017-06-06T13:17:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-06T13:17:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/doc/pantalla_chica.png" added="2017-06-06T13:17:54Z" modified="2017-06-06T13:17:54Z" visited="2017-06-06T13:17:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-06T13:17:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno" added="2017-06-06T13:19:49Z" modified="2017-06-12T15:49:11Z" visited="2017-06-06T13:19:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T15:49:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/index.html" added="2017-06-06T13:20:43Z" modified="2017-06-06T13:20:53Z" visited="2017-06-06T13:20:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T13:20:43Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-06T13:20:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/asset/css/style.css" added="2017-06-06T13:23:05Z" modified="2017-06-06T13:23:05Z" visited="2017-06-06T13:23:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T13:23:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejercicio_guiado_diseno/asset/css/media.css" added="2017-06-06T14:04:55Z" modified="2017-06-06T14:04:55Z" visited="2017-06-06T14:04:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T14:04:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/Miaw-20170606T142844Z-001.zip" added="2017-06-06T14:29:56Z" modified="2017-06-06T14:29:56Z" visited="2017-06-06T14:29:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-06T14:29:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria" added="2017-06-06T14:36:00Z" modified="2017-06-13T16:22:15Z" visited="2017-06-06T14:36:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T16:22:15Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria/index.html" added="2017-06-06T14:36:14Z" modified="2017-06-06T14:42:24Z" visited="2017-06-06T14:36:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T14:36:14Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-06T14:42:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria/assets/css/style.css" added="2017-06-06T14:36:33Z" modified="2017-06-06T14:36:33Z" visited="2017-06-06T14:36:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T14:36:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria/assets/js/js.js" added="2017-06-06T14:42:53Z" modified="2017-06-06T14:42:53Z" visited="2017-06-06T14:42:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T14:42:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria/assets/css/media.css" added="2017-06-06T14:43:19Z" modified="2017-06-06T14:43:19Z" visited="2017-06-06T14:43:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T14:43:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/kitten-laboratoria/assets/img/Copia%20de%20Landscape.jpg" added="2017-06-06T15:27:03Z" modified="2017-06-06T15:27:03Z" visited="2017-06-06T15:27:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-06T15:27:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/menu-laboratoria" added="2017-06-06T17:20:03Z" modified="2017-06-13T16:23:51Z" visited="2017-06-06T17:20:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T16:23:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/menu-laboratoria/index.html" added="2017-06-06T17:20:14Z" modified="2017-06-13T17:15:26Z" visited="2017-06-06T17:20:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T17:20:14Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-13T17:15:26Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/menu-laboratoria/assets/css/media.css" added="2017-06-06T17:21:09Z" modified="2017-06-06T17:21:09Z" visited="2017-06-06T17:21:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T17:21:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/menu-laboratoria/assets/css/style.css" added="2017-06-06T17:21:25Z" modified="2017-06-06T17:21:25Z" visited="2017-06-06T17:21:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T17:21:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/menu-laboratoria/assets/js/main.js" added="2017-06-06T17:21:45Z" modified="2017-06-06T17:21:45Z" visited="2017-06-06T17:21:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-06T17:21:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/floating/css/main.css" added="2017-06-07T00:35:37Z" modified="2017-06-07T00:35:37Z" visited="2017-06-07T00:35:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-06-07T00:35:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/docs/mobile-view.png" added="2017-06-07T04:33:48Z" modified="2017-06-13T16:24:53Z" visited="2017-06-07T04:33:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T16:24:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/docs/normal-view.png" added="2017-06-07T04:33:50Z" modified="2017-06-13T16:24:50Z" visited="2017-06-07T04:33:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T16:24:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love" added="2017-06-07T04:34:50Z" modified="2017-06-13T16:16:54Z" visited="2017-06-07T04:34:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T16:16:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/index.html" added="2017-06-07T04:35:14Z" modified="2017-06-20T01:58:32Z" visited="2017-06-07T04:35:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-07T04:35:14Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-20T01:58:32Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/assets/css/media.css" added="2017-06-07T04:36:43Z" modified="2017-06-07T04:36:43Z" visited="2017-06-07T04:36:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-07T04:36:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/assets/css/style.css" added="2017-06-07T04:36:54Z" modified="2017-06-07T04:36:54Z" visited="2017-06-07T04:36:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-07T04:36:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/bunny-love/assets/js/main.js" added="2017-06-07T04:37:28Z" modified="2017-06-07T04:37:28Z" visited="2017-06-07T04:37:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-07T04:37:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/landing-sumo/index.html" added="2017-06-07T13:54:28Z" modified="2017-06-21T13:44:56Z" visited="2017-06-07T13:54:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-06-07T13:54:28Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T13:44:56Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/landing-sumo/img/bg.jpeg" added="2017-06-07T13:55:04Z" modified="2017-06-07T13:55:04Z" visited="2017-06-07T13:55:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-07T13:55:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/landing-sumo/img/phone.png" added="2017-06-07T13:55:07Z" modified="2017-06-07T13:55:07Z" visited="2017-06-07T13:55:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-07T13:55:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/landing-sumo/docs/desktop.pdf" added="2017-06-07T13:55:21Z" modified="2017-06-07T13:55:21Z" visited="2017-06-07T13:55:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-06-07T13:55:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/landing-sumo" added="2017-06-07T13:56:19Z" modified="2017-06-12T15:46:56Z" visited="2017-06-07T13:56:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T15:46:56Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala/index.html" added="2017-06-07T17:33:45Z" modified="2017-06-12T15:05:50Z" visited="2017-06-07T17:33:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T15:05:50Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala" added="2017-06-07T17:34:51Z" modified="2017-06-21T15:13:24Z" visited="2017-06-07T17:34:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T15:13:24Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala/docs/desktop.png" added="2017-06-07T17:36:15Z" modified="2017-06-10T19:02:33Z" visited="2017-06-07T17:36:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-10T19:02:33Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala/docs/mobile.png" added="2017-06-07T17:37:04Z" modified="2017-06-08T23:34:20Z" visited="2017-06-07T17:37:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-08T23:34:20Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala/img/portada.jpg" added="2017-06-07T17:59:25Z" modified="2017-06-07T17:59:25Z" visited="2017-06-07T17:59:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-07T17:59:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala/img/all.jpg" added="2017-06-08T15:34:09Z" modified="2017-06-08T15:34:09Z" visited="2017-06-08T15:34:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-08T15:34:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/componentes-bootstrap/index.html" added="2017-06-09T15:51:26Z" modified="2017-06-10T20:57:06Z" visited="2017-06-09T15:51:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-06-09T15:51:26Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-10T20:57:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/componentes-bootstrap" added="2017-06-09T15:56:16Z" modified="2017-06-12T15:48:15Z" visited="2017-06-09T15:56:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T15:48:15Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/componentes-bootstrap/asset/css/style.css" added="2017-06-09T15:58:59Z" modified="2017-06-09T15:58:59Z" visited="2017-06-09T15:59:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-09T15:58:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/componentes-bootstrap/asset/js/main.js" added="2017-06-09T15:59:22Z" modified="2017-06-09T15:59:22Z" visited="2017-06-09T15:59:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-09T15:59:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala-vol2/index.html" added="2017-06-12T03:59:40Z" modified="2017-06-12T05:11:28Z" visited="2017-06-12T03:59:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T05:11:28Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/save-the-koala-vol2-master.zip" added="2017-06-12T04:19:48Z" modified="2017-06-12T04:20:08Z" visited="2017-06-12T04:19:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-12T04:20:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/save-the-koala-vol2-master/index.html" added="2017-06-12T04:20:15Z" modified="2017-06-12T04:46:56Z" visited="2017-06-12T04:20:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T04:46:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala-vol2" added="2017-06-12T04:41:17Z" modified="2017-06-14T16:15:47Z" visited="2017-06-12T04:41:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-14T16:15:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/save-the-koala-vol2-master%20(1).zip" added="2017-06-12T04:45:57Z" modified="2017-06-12T04:45:57Z" visited="2017-06-12T04:45:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-12T04:45:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/save-the-koala-vol2-master%20(2).zip" added="2017-06-12T04:46:25Z" modified="2017-06-12T04:46:48Z" visited="2017-06-12T04:46:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-12T04:46:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/koala2" added="2017-06-12T04:50:19Z" modified="2017-06-12T05:05:56Z" visited="2017-06-12T04:50:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T05:05:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/koa2" added="2017-06-12T04:50:45Z" modified="2017-06-12T05:27:48Z" visited="2017-06-12T04:50:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T05:27:48Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/componentes-bootstrap-master.zip" added="2017-06-12T04:56:11Z" modified="2017-06-12T04:56:40Z" visited="2017-06-12T04:56:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-12T04:56:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/componentes-bootstrap-master/index.html" added="2017-06-12T04:56:45Z" modified="2017-06-12T04:56:45Z" visited="2017-06-12T04:56:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T04:56:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/koala2/index.html" added="2017-06-12T05:00:45Z" modified="2017-06-12T05:00:45Z" visited="2017-06-12T05:00:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T05:00:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/koa2/index.html" added="2017-06-12T05:27:58Z" modified="2017-06-12T05:33:03Z" visited="2017-06-12T05:27:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-12T05:33:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/save-the-koala-vol2/js/main.js" added="2017-06-12T05:30:19Z" modified="2017-06-12T05:30:19Z" visited="2017-06-12T05:30:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-12T05:30:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/game-planet/index.html" added="2017-06-12T14:58:50Z" modified="2017-06-22T06:18:19Z" visited="2017-06-12T14:58:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-22T06:18:19Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/game-planet" added="2017-06-12T15:08:41Z" modified="2017-06-22T06:19:04Z" visited="2017-06-12T15:08:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-22T06:19:04Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/conveniolaboratoria.docx.pdf" added="2017-06-12T16:52:34Z" modified="2017-06-12T18:56:07Z" visited="2017-06-12T16:52:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-12T18:56:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lift-flexbox/assets/imagenes/hero-video.mp4" added="2017-06-13T02:09:14Z" modified="2017-06-13T02:09:14Z" visited="2017-06-13T02:09:14Z">
+    <title>hero-video.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;totem %U&apos;" modified="2017-06-13T02:09:14Z" count="1"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-06-13T02:09:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/img/roundicons-free.png" added="2017-06-13T17:43:20Z" modified="2017-06-13T17:43:20Z" visited="2017-06-13T17:43:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T17:43:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_10.png" added="2017-06-13T17:43:57Z" modified="2017-06-15T05:52:44Z" visited="2017-06-13T17:43:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:52:44Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_11.png" added="2017-06-13T17:44:07Z" modified="2017-06-15T05:52:30Z" visited="2017-06-13T17:44:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:52:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/vista_desktop.png" added="2017-06-13T17:44:14Z" modified="2017-06-15T03:51:09Z" visited="2017-06-13T17:44:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T03:51:09Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio" added="2017-06-13T18:45:31Z" modified="2017-06-22T02:46:33Z" visited="2017-06-13T18:45:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-22T02:46:33Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/index.html" added="2017-06-13T18:48:29Z" modified="2017-06-21T13:46:10Z" visited="2017-06-13T18:48:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T18:48:29Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T13:46:10Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/img/themeforest.jpg" added="2017-06-13T18:50:40Z" modified="2017-06-13T18:50:40Z" visited="2017-06-13T18:50:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T18:50:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/img/map-image.png" added="2017-06-13T18:50:44Z" modified="2017-06-13T18:50:44Z" visited="2017-06-13T18:50:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T18:50:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_0.png" added="2017-06-13T18:51:03Z" modified="2017-06-13T18:51:03Z" visited="2017-06-13T18:51:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T18:51:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/css/style.css" added="2017-06-13T18:53:30Z" modified="2017-06-13T18:53:30Z" visited="2017-06-13T18:53:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-13T18:53:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/img/header-bg.jpg" added="2017-06-13T18:56:39Z" modified="2017-06-13T18:56:39Z" visited="2017-06-13T18:56:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-13T18:56:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/vista_movil.png" added="2017-06-14T02:17:56Z" modified="2017-06-15T06:12:00Z" visited="2017-06-14T02:17:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T06:12:00Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_2.png" added="2017-06-15T05:27:36Z" modified="2017-06-15T05:53:00Z" visited="2017-06-15T05:27:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:53:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_3.png" added="2017-06-15T05:27:44Z" modified="2017-06-15T05:27:44Z" visited="2017-06-15T05:27:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:27:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/img/1.jpg" added="2017-06-15T05:28:03Z" modified="2017-06-15T05:28:03Z" visited="2017-06-15T05:28:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:28:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_9.png" added="2017-06-15T05:52:25Z" modified="2017-06-15T05:52:25Z" visited="2017-06-15T05:52:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:52:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/lab-studio/docs/img_desktop_5.png" added="2017-06-15T05:57:49Z" modified="2017-06-15T05:57:49Z" visited="2017-06-15T05:57:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-15T05:57:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejemploapi" added="2017-06-15T14:12:39Z" modified="2017-06-15T14:12:39Z" visited="2017-06-15T14:12:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T14:12:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejemploapi/index.html" added="2017-06-15T14:13:01Z" modified="2017-06-15T14:15:34Z" visited="2017-06-15T14:13:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T14:13:01Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-15T14:15:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/ejemploapi/style.css" added="2017-06-15T14:19:39Z" modified="2017-06-15T14:19:39Z" visited="2017-06-15T14:19:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T14:19:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/fotolog_dragdrop/index.html" added="2017-06-15T15:51:19Z" modified="2017-06-15T22:50:20Z" visited="2017-06-15T15:51:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-15T22:50:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/fotolog_dragdrop" added="2017-06-15T15:53:12Z" modified="2017-06-15T15:53:12Z" visited="2017-06-15T15:53:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T15:53:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage" added="2017-06-15T16:47:36Z" modified="2017-06-15T22:21:03Z" visited="2017-06-15T16:47:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T22:21:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage/assets/index.html" added="2017-06-15T16:48:12Z" modified="2017-06-15T16:48:12Z" visited="2017-06-15T16:48:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T16:48:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage/index.html" added="2017-06-15T22:18:32Z" modified="2017-06-15T22:46:52Z" visited="2017-06-15T22:18:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-15T22:46:52Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage/assets/style.css" added="2017-06-15T22:19:29Z" modified="2017-06-15T22:19:29Z" visited="2017-06-15T22:19:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T22:19:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage/assets/js/main.js" added="2017-06-15T22:21:31Z" modified="2017-06-15T22:21:31Z" visited="2017-06-15T22:21:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-15T22:21:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/insta-collage/assets/img/anime-enamorados-11.jpg" added="2017-06-15T23:07:54Z" modified="2017-06-15T23:07:54Z" visited="2017-06-15T23:07:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:07:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/index.html" added="2017-06-15T23:14:13Z" modified="2017-06-16T03:26:34Z" visited="2017-06-15T23:14:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-16T03:26:34Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage" added="2017-06-15T23:15:17Z" modified="2017-06-16T15:27:15Z" visited="2017-06-15T23:15:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-16T15:27:15Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/.jpg" added="2017-06-15T23:19:04Z" modified="2017-06-15T23:19:04Z" visited="2017-06-15T23:19:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:19:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/1.jpg" added="2017-06-15T23:20:50Z" modified="2017-06-15T23:20:50Z" visited="2017-06-15T23:20:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:20:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/2.jpg" added="2017-06-15T23:22:15Z" modified="2017-06-15T23:22:15Z" visited="2017-06-15T23:22:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:22:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/3.gif" added="2017-06-15T23:22:57Z" modified="2017-06-15T23:22:57Z" visited="2017-06-15T23:22:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:22:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/4.gif" added="2017-06-15T23:23:31Z" modified="2017-06-15T23:23:31Z" visited="2017-06-15T23:23:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:23:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/5.jpg" added="2017-06-15T23:24:38Z" modified="2017-06-15T23:24:38Z" visited="2017-06-15T23:24:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:24:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/7.jpg" added="2017-06-15T23:25:20Z" modified="2017-06-15T23:25:20Z" visited="2017-06-15T23:25:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:25:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/6.jpg" added="2017-06-15T23:25:45Z" modified="2017-06-15T23:25:45Z" visited="2017-06-15T23:25:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:25:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/8.jpg" added="2017-06-15T23:26:49Z" modified="2017-06-15T23:26:49Z" visited="2017-06-15T23:26:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-15T23:26:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/fotolog_dragdrop-master.zip" added="2017-06-16T02:45:46Z" modified="2017-06-16T02:46:29Z" visited="2017-06-16T02:45:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-16T02:46:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/fotolog_dragdrop-master/index.html" added="2017-06-16T02:46:39Z" modified="2017-06-19T03:03:29Z" visited="2017-06-16T02:46:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-19T03:03:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/fotolog_dragdrop-master" added="2017-06-16T02:49:05Z" modified="2017-06-16T02:49:05Z" visited="2017-06-16T02:49:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-16T02:49:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/9.gif" added="2017-06-16T03:31:22Z" modified="2017-06-16T03:31:22Z" visited="2017-06-16T03:31:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:31:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/10.gif" added="2017-06-16T03:31:44Z" modified="2017-06-16T03:43:56Z" visited="2017-06-16T03:31:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:31:44Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-16T03:43:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/11.gif" added="2017-06-16T03:32:33Z" modified="2017-06-16T03:32:33Z" visited="2017-06-16T03:32:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:32:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/12.gif" added="2017-06-16T03:33:28Z" modified="2017-06-16T03:44:00Z" visited="2017-06-16T03:33:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:33:28Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-16T03:44:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/13.gif" added="2017-06-16T03:34:06Z" modified="2017-06-16T03:34:06Z" visited="2017-06-16T03:34:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:34:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/instacollage/img/14.gif" added="2017-06-16T03:34:42Z" modified="2017-06-16T03:34:42Z" visited="2017-06-16T03:34:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-16T03:34:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/pagolibreta.png" added="2017-06-16T13:38:33Z" modified="2017-06-16T13:38:33Z" visited="2017-06-16T13:38:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2017-06-16T13:38:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/localstorage" added="2017-06-16T15:08:14Z" modified="2017-06-21T19:06:14Z" visited="2017-06-16T15:08:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T19:06:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/localstorage/innet.html" added="2017-06-16T15:08:45Z" modified="2017-06-21T19:05:37Z" visited="2017-06-16T15:08:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-16T15:08:45Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T19:05:37Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/localstorage/css/style.css" added="2017-06-16T15:08:59Z" modified="2017-06-16T15:08:59Z" visited="2017-06-16T15:08:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-16T15:08:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/localstorage/js/main.js" added="2017-06-16T15:09:15Z" modified="2017-06-16T15:09:15Z" visited="2017-06-16T15:09:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-16T15:09:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/prueba_storage.zip" added="2017-06-16T15:09:59Z" modified="2017-06-16T15:09:59Z" visited="2017-06-16T15:09:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-16T15:09:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/clase.zip" added="2017-06-16T15:23:14Z" modified="2017-06-16T15:23:14Z" visited="2017-06-16T15:23:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-16T15:23:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/brooke-lark-275181.jpg" added="2017-06-18T21:23:24Z" modified="2017-06-18T21:23:24Z" visited="2017-06-18T21:23:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-18T21:23:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/sessionstorage/innet.html" added="2017-06-18T21:36:14Z" modified="2017-06-20T01:28:44Z" visited="2017-06-18T21:36:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-06-20T01:28:44Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/sessionstorage" added="2017-06-18T21:36:31Z" modified="2017-06-19T16:30:50Z" visited="2017-06-18T21:36:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:30:50Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/comentarios_fotolog/index.html" added="2017-06-18T22:58:42Z" modified="2017-06-20T01:27:14Z" visited="2017-06-18T22:58:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-06-20T01:27:14Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/comentarios_fotolog" added="2017-06-18T23:00:03Z" modified="2017-06-19T16:30:31Z" visited="2017-06-18T23:00:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:30:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/comentarios_fotolog-master.zip" added="2017-06-19T00:03:31Z" modified="2017-06-19T00:03:31Z" visited="2017-06-19T00:03:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-19T00:03:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/sessionstorage-master.zip" added="2017-06-19T00:04:21Z" modified="2017-06-19T00:04:48Z" visited="2017-06-19T00:04:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-19T00:04:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/sessionstorage-master/index.html" added="2017-06-19T00:05:03Z" modified="2017-06-19T00:05:03Z" visited="2017-06-19T00:05:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-19T00:05:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/sessionstorage-master" added="2017-06-19T00:06:30Z" modified="2017-06-19T00:06:30Z" visited="2017-06-19T00:06:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T00:06:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/comentarios_fotolog-master%20(1).zip" added="2017-06-19T03:02:00Z" modified="2017-06-19T03:02:50Z" visited="2017-06-19T03:02:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-19T03:02:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/comentarios_fotolog-master/index.html" added="2017-06-19T03:02:57Z" modified="2017-06-19T03:02:57Z" visited="2017-06-19T03:02:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-19T03:02:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/referencia.jpg" added="2017-06-19T14:53:03Z" modified="2017-06-19T14:53:03Z" visited="2017-06-19T14:53:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2017-06-19T14:53:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-bike" added="2017-06-19T16:13:59Z" modified="2017-06-19T16:13:59Z" visited="2017-06-19T16:13:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:13:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-bike/index.html" added="2017-06-19T16:14:12Z" modified="2017-06-19T19:17:46Z" visited="2017-06-19T16:14:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:14:12Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-19T19:17:46Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-bike/assets/style.css" added="2017-06-19T16:14:27Z" modified="2017-06-19T16:14:27Z" visited="2017-06-19T16:14:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:14:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-bike/assets/main.js" added="2017-06-19T16:14:42Z" modified="2017-06-19T16:14:42Z" visited="2017-06-19T16:14:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T16:14:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-vreco" added="2017-06-19T19:25:33Z" modified="2017-06-21T13:26:23Z" visited="2017-06-19T19:25:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T13:26:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-vreco/index-html" added="2017-06-19T19:25:47Z" modified="2017-06-19T19:25:47Z" visited="2017-06-19T19:25:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T19:25:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-vreco/index.html" added="2017-06-19T19:27:21Z" modified="2017-06-22T05:40:52Z" visited="2017-06-19T19:27:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T19:27:21Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-22T05:40:52Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-vreco/assets/style.css" added="2017-06-19T19:29:28Z" modified="2017-06-19T19:29:28Z" visited="2017-06-19T19:29:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T19:29:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/easy-vreco/assets/main.js" added="2017-06-19T19:29:41Z" modified="2017-06-19T19:29:41Z" visited="2017-06-19T19:29:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-19T19:29:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/bicis-locas-master.zip" added="2017-06-21T12:31:50Z" modified="2017-06-21T12:32:16Z" visited="2017-06-21T12:31:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-21T12:32:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/bicis-locas-master/index.html" added="2017-06-21T12:32:52Z" modified="2017-06-21T12:32:52Z" visited="2017-06-21T12:32:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T12:32:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/tea-lovers-master.zip" added="2017-06-21T12:35:24Z" modified="2017-06-21T12:35:40Z" visited="2017-06-21T12:35:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-21T12:35:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/tea-lovers-master/index.html" added="2017-06-21T12:35:51Z" modified="2017-06-21T12:35:51Z" visited="2017-06-21T12:35:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T12:35:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/easy-vreco-master.zip" added="2017-06-21T12:49:20Z" modified="2017-06-21T12:49:44Z" visited="2017-06-21T12:49:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-21T12:49:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/easy-vreco-master/index.html" added="2017-06-21T12:50:06Z" modified="2017-06-22T01:15:58Z" visited="2017-06-21T12:50:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-22T01:15:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/labcar-20170621T131820Z-001.zip" added="2017-06-21T13:18:44Z" modified="2017-06-21T13:18:59Z" visited="2017-06-21T13:18:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-06-21T13:18:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/labcar/textos%20Labcar.docx" added="2017-06-21T13:19:10Z" modified="2017-06-21T13:19:32Z" visited="2017-06-21T13:19:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-06-21T13:19:10Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-06-21T13:19:32Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar-hacker-edition/desktop-hacker-edition.png" added="2017-06-21T13:20:46Z" modified="2017-06-21T17:59:03Z" visited="2017-06-21T13:20:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-21T17:59:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar-hacker-edition/mobile-hacker-edition.png" added="2017-06-21T13:20:53Z" modified="2017-06-22T06:15:07Z" visited="2017-06-21T13:20:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-22T06:15:07Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar-hacker-edition/mobile-navbar-hacker-edition.png" added="2017-06-21T13:20:58Z" modified="2017-06-21T17:59:14Z" visited="2017-06-21T13:20:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-21T17:59:14Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/iconos/style.css" added="2017-06-21T13:21:28Z" modified="2017-06-21T13:21:28Z" visited="2017-06-21T13:21:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-06-21T13:21:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar" added="2017-06-21T13:22:46Z" modified="2017-06-21T13:22:46Z" visited="2017-06-21T13:22:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T13:22:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/index.html" added="2017-06-21T13:25:28Z" modified="2017-06-21T14:27:53Z" visited="2017-06-21T13:25:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T13:25:28Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-06-21T14:27:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/css/main.css" added="2017-06-21T13:27:59Z" modified="2017-06-21T13:27:59Z" visited="2017-06-21T13:27:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T13:27:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/js/javascript.js" added="2017-06-21T13:28:33Z" modified="2017-06-21T13:28:33Z" visited="2017-06-21T13:28:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-21T13:28:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar/desktop.png" added="2017-06-21T13:36:19Z" modified="2017-06-22T04:40:10Z" visited="2017-06-21T13:36:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-22T04:40:10Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar/mobile.png" added="2017-06-21T13:36:36Z" modified="2017-06-22T04:57:05Z" visited="2017-06-21T13:36:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-22T04:57:05Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/vistas/labcar/mobile-navbar.png" added="2017-06-21T13:37:00Z" modified="2017-06-21T13:37:09Z" visited="2017-06-21T13:37:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-21T13:37:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/img/taxi.jpg" added="2017-06-21T14:39:36Z" modified="2017-06-21T14:39:36Z" visited="2017-06-21T14:39:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2017-06-21T14:39:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/laboratoria/labcar/textos%20Labcar.docx" added="2017-06-21T14:58:16Z" modified="2017-06-22T06:24:34Z" visited="2017-06-21T14:58:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-06-22T06:24:34Z" count="3"/>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-06-22T05:08:13Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/easy-vreco-master" added="2017-06-22T01:17:09Z" modified="2017-06-22T01:17:09Z" visited="2017-06-22T01:17:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-06-22T01:17:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

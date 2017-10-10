@@ -1,0 +1,15 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+
+[Added Associations]
+application/javascript=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+text/html=sublime_text.desktop;firefox.desktop;
+text/markdown=sublime_text.desktop;
+text/css=sublime_text.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=google-chrome.desktop;libreoffice-calc.desktop;
+inode/directory=sublime_text.desktop;

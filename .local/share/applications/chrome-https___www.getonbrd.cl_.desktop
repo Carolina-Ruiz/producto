@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Empleos de Diseño, UX, Programación, Desarrollo Móvil en Chile - Get on Board
+Exec=/opt/google/chrome/google-chrome --app=https://www.getonbrd.cl/
+Icon=chrome-https___www.getonbrd.cl_
+StartupWMClass=www.getonbrd.cl

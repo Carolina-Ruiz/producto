@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/laboratoria/Desktop" added="2017-09-06T14:35:45Z" modified="2017-09-06T14:36:47Z" visited="2017-09-06T14:35:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T14:36:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/index.html" added="2017-09-06T14:37:10Z" modified="2017-09-06T14:38:10Z" visited="2017-09-06T14:37:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T14:37:10Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-09-06T14:38:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/cami" added="2017-09-06T14:39:17Z" modified="2017-09-06T14:39:17Z" visited="2017-09-06T14:39:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-09-06T14:39:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/cami/app.js" added="2017-09-06T14:50:16Z" modified="2017-09-06T14:50:16Z" visited="2017-09-06T14:50:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-09-06T14:50:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/cami/index.html" added="2017-09-06T14:56:56Z" modified="2017-09-06T14:56:56Z" visited="2017-09-06T14:56:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-09-06T14:56:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/avances%20trabajo.txt" added="2017-09-07T16:52:53Z" modified="2017-09-07T21:34:33Z" visited="2017-09-07T16:52:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-09-07T21:34:33Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Downloads/People%20in%20Tech%20R%20-%20Perla%20D%C3%ADaz.docx" added="2017-09-28T22:49:54Z" modified="2017-09-28T23:30:29Z" visited="2017-09-28T22:49:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2017-09-28T22:49:54Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-09-28T23:30:29Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/cifradocesar.html%20" added="2017-10-03T11:44:21Z" modified="2017-10-03T11:44:21Z" visited="2017-10-03T11:44:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T11:44:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/cifradocesar.js" added="2017-10-03T11:45:43Z" modified="2017-10-03T11:45:43Z" visited="2017-10-03T11:45:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T11:45:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/tarjetas.html" added="2017-10-03T12:48:42Z" modified="2017-10-03T12:48:42Z" visited="2017-10-03T12:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T12:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/tarjeta.js" added="2017-10-03T12:49:07Z" modified="2017-10-03T14:43:24Z" visited="2017-10-03T12:49:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T12:49:07Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-03T14:43:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/prueba" added="2017-10-03T13:15:10Z" modified="2017-10-03T13:15:10Z" visited="2017-10-03T13:15:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-03T13:15:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/prueba/index.html" added="2017-10-03T13:15:46Z" modified="2017-10-03T13:15:46Z" visited="2017-10-03T13:15:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T13:15:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/prueba/app.js" added="2017-10-03T13:16:03Z" modified="2017-10-03T13:16:03Z" visited="2017-10-03T13:16:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-03T13:16:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/1.%20Cifrado%20cesar/cifradocesar.js" added="2017-10-03T13:31:56Z" modified="2017-10-03T17:04:05Z" visited="2017-10-03T13:31:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-10-03T13:31:56Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-03T17:04:05Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/1.%20Cifrado%20cesar/cifradocesar.html%20" added="2017-10-03T13:32:35Z" modified="2017-10-03T13:33:07Z" visited="2017-10-03T13:32:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-03T13:33:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/1.%20Cifrado%20cesar/app.js" added="2017-10-04T11:25:55Z" modified="2017-10-05T11:30:58Z" visited="2017-10-04T11:25:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-05T11:30:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/app.js" added="2017-10-04T11:26:05Z" modified="2017-10-05T11:31:11Z" visited="2017-10-04T11:26:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-05T11:31:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/REDME.md" added="2017-10-04T11:55:39Z" modified="2017-10-05T11:30:31Z" visited="2017-10-04T11:55:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-04T11:55:39Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-05T11:30:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/README.md" added="2017-10-05T11:33:56Z" modified="2017-10-05T11:33:56Z" visited="2017-10-05T11:33:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-05T11:33:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/1.%20Cifrado%20cesar/REDME.md" added="2017-10-05T12:16:52Z" modified="2017-10-05T13:21:19Z" visited="2017-10-05T12:16:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-05T13:21:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/Diagrama%20de%20Flujo%20para%20Tarjeta%20de%20cr%C3%A9dito" added="2017-10-05T12:53:40Z" modified="2017-10-05T13:00:50Z" visited="2017-10-05T12:53:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-10-05T13:00:50Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/2.%20Tarjeta%20de%20cr%C3%A9dito%20v%C3%A1lida/Diagrama%20de%20Flujo%20para%20Tarjeta%20de%20cr%C3%A9dito.odg" added="2017-10-05T12:53:40Z" modified="2017-10-05T13:01:27Z" visited="2017-10-05T12:53:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.graphics"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-10-05T13:01:27Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Documents/Diagra%20de%20Flujo%20Cifrado%20Cesar" added="2017-10-05T13:07:39Z" modified="2017-10-05T13:08:40Z" visited="2017-10-05T13:07:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-10-05T13:08:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Documents/Diagra%20de%20Flujo%20Cifrado%20Cesar.jpg" added="2017-10-05T13:09:20Z" modified="2017-10-05T13:09:20Z" visited="2017-10-05T13:09:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2017-10-05T13:09:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios" added="2017-10-05T13:30:30Z" modified="2017-10-05T13:30:30Z" visited="2017-10-05T13:30:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-05T13:30:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/CifradoCesar/app.js" added="2017-10-10T12:15:18Z" modified="2017-10-10T12:15:18Z" visited="2017-10-10T12:15:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-10T12:15:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/ejercicios/CifradoCesar/index.html" added="2017-10-10T12:24:13Z" modified="2017-10-10T12:24:13Z" visited="2017-10-10T12:24:13.435227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2017-10-10T12:24:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

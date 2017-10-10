@@ -1,0 +1,61 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/laboratoria/.Xauthority
+openConnection: connect: No such file or directory
+cannot connect to braille devices daemon brltty at :0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting LC_PAPER=es_CL.UTF-8
+dbus-update-activation-environment: setting LC_ADDRESS=es_CL.UTF-8
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/laboratoria
+dbus-update-activation-environment: setting LC_MONETARY=es_CL.UTF-8
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting LC_NUMERIC=es_CL.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting USER=laboratoria
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_TELEPHONE=es_CL.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/systemd-session:/usr/share/upstart/xdg:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/laboratoria/bin:/home/laboratoria/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting LC_IDENTIFICATION=es_CL.UTF-8
+dbus-update-activation-environment: setting PWD=/home/laboratoria
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting LC_MEASUREMENT=es_CL.UTF-8
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=ubuntu
+dbus-update-activation-environment: setting GDMSESSION=ubuntu
+dbus-update-activation-environment: setting GTK2_MODULES=overlay-scrollbar
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/laboratoria
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+dbus-update-activation-environment: setting LOGNAME=laboratoria
+dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=Unity
+dbus-update-activation-environment: setting LC_TIME=es_CL.UTF-8
+dbus-update-activation-environment: setting LC_NAME=es_CL.UTF-8
+dbus-update-activation-environment: setting XAUTHORITY=/home/laboratoria/.Xauthority
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+upstart: click-user-hooks main process (1615) terminated with status 1
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
