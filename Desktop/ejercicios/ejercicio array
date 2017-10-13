@@ -1,0 +1,75 @@
+/*Un grupo de amigos va a un evento.
+Tiene que sentarse en orden de lista.
+Escribir una función donde el nombre de la persona puedes indicar el asiento
+en el que le toca sentarse.
+Nota1: La numeración de los asientos comienza en 1
+Nora2: SI la persona no tiene asiento debe devolver 0
+*/
+function obtenerAsiento (name){
+	var names =["vero", "caro", "lis","jez", "cinthia", "jose", "nadia"];// se agregan los valores con comillas
+	var position =names.indexOf (name);
+	if (position == -1){
+		return 0;
+	}else{
+		result =position +1;
+
+	}
+	return result;
+}
+} cosole.log(obtenerAsiento("Carol"));
+
+/*DAdo el arreglo ["quack", "sneeze", "boom"]
+retornar quack! sneeze! boom!
+*/
+
+var myarray["quack", "sneeze", "boom"];
+function phrase (arr){
+		return myarray.join("!");
+}
+console.log(myArray.join("!"));
+/*Crea una funcion que dado un número inicial y una longitud nos retorne un 
+nuevo arreglo desde el número inicial y con la cantidad de elementos que la 
+longitud nos indica.
+ejem: 
+inicial =2
+longitus= 5
+nos debe retornar [2,3,4,5,6]
+*/
+function newArr (inicial, long){
+	var arr = []
+	for (var i =initial; arr.length <long; i++){
+		arr.push(i); // se agrega al arreglo vacio 
+	}
+	return arr; // retorna el arreglo
+/*Dado dos strings (word1 y word2)escribir una función para determinar si word2
+es anagrama de word1, si es anagrama devolder true.
+eje:
+word1="anagram"
+word2= "nagaram"
+retorna true
+*/
+
+ function anagrama ("word1" y "word2"){
+ 	if(word1.split("").sort().join("") === word2.split("").sort().join)){//ordenar alfabeticamente con sort tiene q ser en arreglo
+	return true; // split los separa los caracteres y los convierte en arreglo
+ }
+return false;
+}
+console.log(anagrama("anagrama", "nagarama"))
+
+/*Dado un arreglo de nombres, crea una funcion que filtre los nombres que 
+comienzan con B y los retorne en un nuevo arreglo
+ejem
+names =["Ale","nadia","Belen","Tatiana", "bernarda"]
+*/
+var name["Ale","nadia","Belen","Tatiana", "Bernarda"]
+function initial(arr)
+	var newArr =[];
+	for(var i=0; i <arr.length; i++){
+		if(arr [i]).charAt(0)==="B"){ //busca el index q yo quiero
+	newArr.push(name[i]);
+}
+	}
+	return newArr;
+}
+

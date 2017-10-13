@@ -3,7 +3,7 @@
 Version=1.0
 Terminal=false
 Type=Application
-Name=Google Docs
+Name=Docs
 Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 2" --app-id=aohghmighlieiainnegkcijnfilokake
 Icon=chrome-aohghmighlieiainnegkcijnfilokake-Profile_2
 NoDisplay=true

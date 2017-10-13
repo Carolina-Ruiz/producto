@@ -53,9 +53,19 @@ dbus-update-activation-environment: setting LC_TIME=es_CL.UTF-8
 dbus-update-activation-environment: setting LC_NAME=es_CL.UTF-8
 dbus-update-activation-environment: setting XAUTHORITY=/home/laboratoria/.Xauthority
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-upstart: click-user-hooks main process (1615) terminated with status 1
+upstart: click-user-hooks main process (1545) terminated with status 1
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon respawning too fast, stopped
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name

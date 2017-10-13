@@ -1,10 +1,3 @@
-git add .
-git commit -m"cargue dos botones añadir estudiante y print all"
-git status
-cd Desktop
-cd laboratoria
-cd student-records/
-git add .
 git commit -m "agrego boton print all"
 git branch
 git push origin html3
@@ -1998,3 +1991,10 @@ git push origin master
 ls
 cd
 cd desktop
+'/home/laboratoria/Desktop/ejercicios/CifradoCesar' 
+git init
+git remote add origin https://github.com/Carolina-Ruiz/producto.git
+git status
+git add .
+git commit -m "subiendo archivos final solicionario sprint 1"
+desktop git clone https://github.com/Carolina-Ruiz/producto-final.git

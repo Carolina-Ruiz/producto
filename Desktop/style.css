@@ -1,0 +1,42 @@
+.first{
+	color:#F8000F
+	/*!important; esto es el q manda*/ 
+}
+#winning {
+	color: blue;
+}
+h1 #winning{ /*si se antepone body seria mas especifico*/
+	color: black;
+}
+
+.contenedor{
+	color:pink;
+}
+.box-three p:first-of-type /*el primero de tu tipo*/
++ p {      /*p indica q es el segundo*/
+	font-size: 36px;
+}
+
+box-three p:last-child { /*ultimo hijo*/
+	font-size:6px;
+}
+
+/*una propiedad a cada div*/
+.box-one {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	padding: 20px 10px 15px 5px; /* como el reloj pirmero el superior, derecho, abajo, izquierdo.*/
+	border: 5px solid #
+	black;
+margin-bottom: 10px;
+
+}
+
+.box-two {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	padding: 20px; /* como el reloj pirmero el superior, derecho, abajo, izquierdo.*/
+display: inline-block;
+}
