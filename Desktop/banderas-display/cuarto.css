@@ -1,8 +1,7 @@
 .yellow, .gray{
 	margin: 10px;
 	padding: 10px;
-	display: 
-		inline;/* inline solo para q se pegue arriba*/
+	display: inline;/* inline solo para q se pegue arriba*/
 }
 .yellow{
 	background-color: yellow;

@@ -53,52 +53,36 @@ dbus-update-activation-environment: setting LC_TIME=es_CL.UTF-8
 dbus-update-activation-environment: setting LC_NAME=es_CL.UTF-8
 dbus-update-activation-environment: setting XAUTHORITY=/home/laboratoria/.Xauthority
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-upstart: click-user-hooks main process (1562) terminated with status 1
+upstart: click-user-hooks main process (1545) terminated with status 1
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
-upstart: url-dispatcher main process ended, respawning
-upstart: upstart-dbus-session-bridge main process (1590) terminated with status 1
-upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon respawning too fast, stopped
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name
+xbrlapi: window 0x03c00003 changed to NULL name
+upstart: dbus main process (1539) killed by TERM signal
+upstart: url-dispatcher main process (1546) killed by TERM signal
+upstart: window-stack-bridge main process (1550) killed by HUP signal
+upstart: hud main process (1773) killed by HUP signal
+upstart: at-spi2-registryd main process (1788) killed by HUP signal
+upstart: gnome-session (Unity) main process (1803) killed by TERM signal
+upstart: indicator-messages main process (2028) killed by HUP signal
+upstart: indicator-bluetooth main process (2031) killed by TERM signal
+upstart: indicator-power main process (2034) killed by TERM signal
+upstart: indicator-datetime main process (2043) killed by TERM signal
+upstart: indicator-keyboard main process (2044) killed by HUP signal
+upstart: indicator-sound main process (2045) killed by HUP signal
+upstart: indicator-printers main process (2047) killed by TERM signal
+upstart: indicator-session main process (2048) killed by TERM signal
+upstart: indicator-application main process (2098) killed by TERM signal
 upstart: Disconnected from notified D-Bus bus
-upstart: indicator-messages main process ended, respawning
-upstart: indicator-bluetooth main process (1995) killed by TERM signal
-upstart: indicator-bluetooth main process ended, respawning
-upstart: indicator-power main process (1998) killed by TERM signal
-upstart: indicator-power main process ended, respawning
-upstart: upstart-udev-bridge main process ended, respawning
-upstart: upstart-file-bridge main process ended, respawning
-upstart: upstart-dbus-system-bridge main process ended, respawning
-upstart: indicator-datetime main process (1999) killed by TERM signal
-upstart: indicator-datetime main process ended, respawning
-upstart: indicator-session main process (2005) killed by TERM signal
-upstart: indicator-session main process ended, respawning
-upstart: dbus main process (1557) killed by TERM signal
-upstart: dbus main process ended, respawning
-upstart: indicator-application main process (2042) killed by TERM signal
-upstart: indicator-application main process ended, respawning
-upstart: upstart-dbus-session-bridge main process (6845) killed by HUP signal
-upstart: upstart-dbus-session-bridge main process ended, respawning
-upstart: hud main process (1856) killed by HUP signal
-upstart: gnome-session (Unity) main process (1869) killed by TERM signal
-upstart: indicator-sound main process (2003) killed by HUP signal
-upstart: indicator-sound main process ended, respawning
-upstart: indicator-printers main process (2004) killed by TERM signal
-upstart: indicator-printers main process ended, respawning
-upstart: indicator-messages main process (6846) killed by TERM signal
-upstart: indicator-messages main process ended, respawning
-upstart: indicator-bluetooth main process (6847) killed by TERM signal
-upstart: indicator-bluetooth main process ended, respawning
-upstart: Error while reading from descriptor: Broken pipe
-upstart: indicator-keyboard main process (2001) killed by HUP signal
-upstart: url-dispatcher main process (6844) killed by TERM signal
-upstart: indicator-datetime main process (6896) killed by TERM signal
-upstart: indicator-printers main process (6913) killed by TERM signal
-upstart: indicator-messages main process (6914) killed by TERM signal
-upstart: url-dispatcher-update-system pre-start process (6954) terminated with status 1
-upstart: unity8-filewatcher main process (6966) terminated with status 1
-upstart: unity8-filewatcher main process (6988) terminated with status 1
-upstart: unity8-filewatcher main process (6991) terminated with status 1
-upstart: unity8-filewatcher main process (6992) terminated with status 1
-upstart: unity8-filewatcher main process (6995) terminated with status 1
-upstart: upstart-file-bridge main process (6997) killed by TERM signal
-upstart: job url-dispatcher-refresh failed to stop
+upstart: systemd-graphical-session post-stop process (19582) terminated with status 1

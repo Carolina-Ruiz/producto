@@ -363,12 +363,73 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/laboratoria/Desktop/banderas-display/cuarto.css" added="2017-10-13T15:29:51Z" modified="2017-10-13T15:29:51Z" visited="2017-10-13T15:29:51.736567Z">
+  <bookmark href="file:///home/laboratoria/Desktop/banderas-display/cuarto.css" added="2017-10-13T15:29:51Z" modified="2017-10-13T15:29:51Z" visited="2017-10-13T15:29:51Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/css"/>
         <bookmark:applications>
           <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-13T15:29:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/banderas-display/floating" added="2017-10-16T12:44:30Z" modified="2017-10-16T12:44:30Z" visited="2017-10-16T12:44:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:44:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/banderas-display/positioning" added="2017-10-16T12:45:11Z" modified="2017-10-16T12:45:11Z" visited="2017-10-16T12:45:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:45:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/floating/css" added="2017-10-16T12:51:14Z" modified="2017-10-16T12:52:14Z" visited="2017-10-16T12:51:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:52:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/floating/img" added="2017-10-16T12:51:37Z" modified="2017-10-16T12:51:37Z" visited="2017-10-16T12:51:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:51:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/floating/index.html" added="2017-10-16T12:52:58Z" modified="2017-10-16T13:06:14Z" visited="2017-10-16T12:52:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:52:58Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2017-10-16T13:06:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/laboratoria/Desktop/floating/style.css" added="2017-10-16T12:53:17Z" modified="2017-10-16T12:53:17Z" visited="2017-10-16T12:53:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2017-10-16T12:53:17Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

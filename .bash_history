@@ -1,10 +1,3 @@
-git commit -m "agrego boton print all"
-git branch
-git push origin html3
-clear
-cd ..
-git clone https://github.com/ValSaavedra/pesos-planetas.git
-git checkout -b parte1
 cd pesos-planetas
 git bhanch
 git branch
@@ -1998,3 +1991,10 @@ git status
 git add .
 git commit -m "subiendo archivos final solicionario sprint 1"
 desktop git clone https://github.com/Carolina-Ruiz/producto-final.git
+cd'/home/laboratoria/Desktop/banderas-display' 
+git init
+git remote origin master https://github.com/Carolina-Ruiz/banderas-display.git
+git add .
+git commit -m "se adjuntan ejercicios de display"
+git push origin master
+git push origin master:gh-page
