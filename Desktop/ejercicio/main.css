@@ -1,0 +1,54 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	background-image: url(..maquetado/img/pinterest.jpg);
+	margin: 0;
+}
+#uno {
+	color: #78614f;
+}
+#dos {
+	color:#AD8C6C;
+}
+#tres {
+	color:##8D775E;
+}
+#cuatro {
+	color:#8F6E4E;
+}
+#cinco {
+	color:#919A46;
+}
+#seis {
+	color:#807458;
+}
+#siete {
+	color:#9F8B84;
+}
+#ocho {
+	color:#9F7859;
+}
+#nueve {
+	color:#BA7A77;
+}
+
+.fotouno {
+	background-image: url(..maquetado/img/cheatsheet.jpg);
+	
+}
+.fotodos {
+	background-image: url(..maquetado/img/jquery.jpg);
+	background-size: 0%;
+}
+
+.fototres {
+	background-image: url(..maquetado/img/mapa.jpg);
+	background-size: 2px;
+}
+
+.fotocuatro { 
+	background-image: url(..maquetado/img/python.jpg);
+	background-size: 17%;
+ }
